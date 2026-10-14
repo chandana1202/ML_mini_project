@@ -158,7 +158,12 @@ For the best chance of a useful prediction, try a clear photograph where the bir
 **Project:** Bird Species Identification from an Image  
 **Type:** Machine Learning Mini-Project
 
-Add your name, team members, course, and institution here if required by your submission instructions.
+UE24CS352A Machine Learning
+
+Chandana O N PES1UG24AM353 
+
+Bhumika P Patil PES1UG24AM352
+
 
 ## Notes for Repository Maintenance
 
